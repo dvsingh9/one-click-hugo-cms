@@ -3,7 +3,7 @@ title: Russia hopes approval to Sputnik-V vaccine
 subtitle: Russia hopes approval to Sputnik-V vaccine by DCGI will be completed soon
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: States step up curbs as India continues to report high surge
+  heading: India continues to report high surge
   text: India on Monday reported highest single-day rise so far with over 1.68
     lakh new Covid-19 cases, taking the total tally of cases to 1,35,27,717. The
     active cases have surpassed the 12-lakh mark, while the death toll increased
